@@ -1,0 +1,32 @@
+01 - Escreva um programa que forneça um tipo de aplicação financeira adequada a um investidor a partir de 2 dados fornecidos: 
+O grau de aceitação de risco e o valor a ser investido. O grau de aceitação de risco deve ser lido no teclado na forma
+de BX(baixo risco) ou AL(alto risco) se for fornecido algo diferente disto o programa deve mostrar uma mensagem indicando
+que foi fornecido dado inválido. Para o valor ser deve ser um número real. 
+
+02 - Escreva um programa para exibir na tela o nome e a categoria, o programa deve ler o String para o nome e um 
+número real para o peso. Conforme o peso ocorrerá o enquadramento na categoria
+
+
+03 - Uma empresa financeira concede empréstimos a pessoas física quando o valor da parcela é menor que 8% do salário da pessoa.
+Escreva um programa que leia 2 números reais. Valor do salário  e o valor da parcela e se o empréstimo será concedido ou não.
+
+04 - No Senailândia mulheres e homens podem servir o exercício do País. O serviço é opcional e é muito comum que asa pessoas se 
+apresentem para o serviço em algum momento da vida. Existe uma única restrição para o ingresso que é a idade da pessoa
+
+a) Para mulheres a idade aceita é entre 21 e 34 anos;
+b) Para homens a idade aceita é entre 18 e 39 anos;
+c) Escreva um programa que leia 3 dados de entrada: Nome, idade, gênero e informe se a pessoa será aceita ou não para o serviço.
+Obs: Para o sexo deve ser lido Apenas uma caractere que pode ser (f ou F) e (m ou M) para feminino e masculino, qualquer coisa diferente deve 
+imprimir inválido.
+
+05 - No comércio o conceito de margem bruta é uma 5 que é aplicada ao preço de custo para se obter o preço de venda. 
+Uma loja tem como política comercial, aplicar uma margem bruta de 45% quando o preço bruto é <= 100 kwanzas 
+e o produto custa > 100 a margem bruta é de 35% . Escreva um programa que leia o preço  do produto e mostre o seu custo.
+
+06 - Nas eleições municipais, os municípios com 200000 eleitores ou mais tem segundo turno caso o primeiro colocado não tenha mais que 50%.
+Escreva um programa que leia o nome do município, a qtde. de eleitores a qtde. de votos do candidato mais votado e informe se haverá 2° turno ou não
+
+
+
+if GrauRisco == "" and Valor == 0:
+    print("Todos os campos devem ser preenchidos")
