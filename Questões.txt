@@ -27,6 +27,3 @@ e o produto custa > 100 a margem bruta é de 35% . Escreva um programa que leia 
 Escreva um programa que leia o nome do município, a qtde. de eleitores a qtde. de votos do candidato mais votado e informe se haverá 2° turno ou não
 
 
-
-if GrauRisco == "" and Valor == 0:
-    print("Todos os campos devem ser preenchidos")
