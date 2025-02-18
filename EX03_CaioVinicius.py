@@ -7,7 +7,7 @@ salário = float(input("Qual o do seu salário?"))
 aliquota = 8/100
 condicao = salário * aliquota
 
-if parcela > condicao:
+if parcela < condicao:
     print("O empréstimo pode ser concedido!")
 else:
     print("Empréstimo recusado!")
