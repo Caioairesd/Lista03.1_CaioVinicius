@@ -10,3 +10,9 @@ if preco > 100:
 else:
     margem = preco * 45/100
     print("A margem bruta do preço é {}".format(margem))
+
+
+
+print("---------------------------------------------------------------------------------------------------------")
+print("Programa finalizado!")
+print("Caio Vinicius Aires da Silva")   

@@ -11,3 +11,9 @@ if parcela < condicao:
     print("O empréstimo pode ser concedido!")
 else:
     print("Empréstimo recusado!")
+
+
+
+print("---------------------------------------------------------------------------------------------------------")
+print("Programa finalizado!")
+print("Caio Vinicius Aires da Silva")   

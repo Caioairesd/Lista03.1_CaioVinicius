@@ -19,6 +19,10 @@ elif GrauRisco != ('bx') or GrauRisco != ('al') or Valor <0 or Valor != float:
     print("Grau de risco ou valor inválido.")
 
                       
+                      
+print("---------------------------------------------------------------------------------------------------------")
+print("Programa finalizado!")
+print("Caio Vinicius Aires da Silva")                      
 
 
 

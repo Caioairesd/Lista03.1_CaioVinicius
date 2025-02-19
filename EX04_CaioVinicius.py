@@ -23,3 +23,13 @@ elif genero == 'm':
 
 else:
     print("Dados inseridos inválidos.")
+
+
+
+
+
+
+
+print("---------------------------------------------------------------------------------------------------------")
+print("Programa finalizado!")
+print("Caio Vinicius Aires da Silva")   
